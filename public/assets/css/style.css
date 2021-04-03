@@ -68,4 +68,9 @@ html, body {
     padding: 20px;
     cursor: pointer;
   }
+
+  .navbar {
+      background-color: chartreuse;
+      color: darkblue;
+  }
   
